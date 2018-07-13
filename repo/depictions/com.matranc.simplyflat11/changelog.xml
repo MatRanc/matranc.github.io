@@ -1,12 +1,13 @@
 <changelog>
 	<changes>
-		<version>1.0.0-2</version>
+		<version>1.1</version>
 		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
+		<change>added Pocket Planes icon</change>
+		<change>edited the pubg icon to be brighter</change>
 	</changes>
 	<changes>
-		<version>1.0.0-1</version>
-		<change>Initial Release</change>
+		<version>1.0</version>
+		<change>Initial release</change>
+		<change>Contails two icons</change>
 	</changes>
 </changelog>
