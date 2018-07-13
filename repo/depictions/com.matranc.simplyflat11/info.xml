@@ -1,18 +1,18 @@
 <package>
-	<id>com.supermamon.fullpackage</id>
+	<id>com.matranc.simplyflat11</id>
 	<name>Full Package</name>
-	<version>2.0.0-1</version>
+	<version>1.0.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>mobilesubstrate</package>
+		<package>Anemone</package>
 	</dependencies>
 	<descriptionlist>
-		<description>This is an package will full depictions.</description>
-		<description>It has more description lines.</description>
+		<description>SimplyFlat11 was designed to be simple, flat and work in iOS 11.</description>
+		<description>The theme was also created because there were 2 apps on my phone that were not alreadt themed and it made me want to make my own theme.</description>
 		<description><![CDATA[
 		You can also have<br/> 
 		a multi-line item.
@@ -30,13 +30,13 @@
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
+		<change>First release!</change>
+		<change>A WHOLE two THEMED ICONS!</change>
+		<change>LITERALLY NOTHING ELSE!!!</change>
 	</changelog>
 	<links>
 		<link>
-			<name>/r/jailbreak</name>
+			<name>/r/CancerItself (most people call it r/jailbreak)</name>
 			<url>https://www.reddit.com/r/jailbreak</url>
 			<iconclass>fa fa-reddit</iconclass>
 		</link>
