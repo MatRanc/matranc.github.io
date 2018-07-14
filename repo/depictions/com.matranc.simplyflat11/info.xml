@@ -1,7 +1,7 @@
 <package>
 	<id>com.matranc.simplyflat11</id>
 	<name>SimplyFlat11</name>
-	<version>1.1</version>
+	<version>1.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -33,9 +33,9 @@
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>Second release</change>
-		<change>added Pocket Planes icon</change>
-		<change>edited the pubg icon to be brighter</change>
+		<change>Third release</change>
+		<change>added the appstore and calculator icon</change>
+		<change>edited the pubg icon to be darker and make pocketplanes icon smaller</change>
 	</changelog>
 	<links>
 		<link>

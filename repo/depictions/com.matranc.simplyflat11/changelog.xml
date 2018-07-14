@@ -1,5 +1,11 @@
 <changelog>
 	<changes>
+		<version>1.2</version>
+		<change>Third release</change>
+		<change>added the appstore and calculator icon</change>
+		<change>edited the pubg icon to be darker and make pocketplanes icon smaller</change>
+	</changes>
+	<changes>
 		<version>1.1</version>
 		<change>Second release</change>
 		<change>added Pocket Planes icon</change>
