@@ -1,5 +1,11 @@
 <changelog>
 	<changes>
+		<version>1.3</version>
+		<change>Fourth release</change>
+		<change>added some new icons</change>
+		<change>also made an alt theme for the twicth icon</change>
+	</changes>
+	<changes>
 		<version>1.2</version>
 		<change>Third release</change>
 		<change>added the appstore and calculator icon</change>
