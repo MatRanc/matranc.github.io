@@ -12,7 +12,7 @@
 	</dependencies>
 	<descriptionlist>
 		<description>SimplyFlat11 was designed to be simple, flat and work in iOS 11.</description>
-		<description>The theme was created since there were 2 apps on my phone that were not already themed and it made me want to make my own theme.</description>
+		<description>The theme was created since there were two apps on my phone that were not already themed and so, I wanted to make my own theme.</description>
 		<description><![CDATA[
 		SimplyFlat11 has icons for:<br/> 
 		The Weather Network<br/> 
@@ -20,6 +20,10 @@
 		Pocket Planes<br/>
 		Calculator<br/>
 		App Store<br/>
+		Twitter<br/>
+		Discord<br/>
+		MLB At Bat<br/>
+		Twitch<br/>
 		and more to come!
 		]]>
 		</description>
@@ -36,12 +40,12 @@
 	</screenshots>
 	<changelog>
 		<change>Fourth release</change>
-		<change>added some new icons</change>
+		<change>added some new icons including: twitter, pocket planes, discord, MLB at bat, and twitch</change>
 		<change>also made an alt theme for the twicth icon</change>
 	</changelog>
 	<links>
 		<link>
-			<name>/r/CancerItself (most people call it r/jailbreak)</name>
+			<name>/r/Cancer (most people call it r/jailbreak)</name>
 			<url>https://www.reddit.com/r/jailbreak</url>
 			<iconclass>fa fa-reddit</iconclass>
 		</link>
