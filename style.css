@@ -1,0 +1,48 @@
+body {
+  background-color: #030711
+}
+
+h1 {
+  color: #ffffff;
+  font-family: "SF Pro Display";
+  font-size: 48px;
+  font-weight: 700;
+  padding-left: 20%;
+  padding-top: 300px;
+  margin-bottom: 0px;
+}
+
+h2 {
+  color: rgba(255,255,255,0.53);
+  font-family: "Segoe UI";
+  font-size: 18px;
+  font-weight: 400;
+  padding-left: 20%;
+  padding-bottom: 15px;
+}
+
+hr {
+  height: 0px;
+  width: 175px;
+  margin-left: 20%;
+  border: solid 1px #49536c
+}
+
+.twitterbutton {
+  margin-left: 20%;
+}
+
+.twittericon {
+  height: 28px;
+  width: 28px;
+  margin-top: 16.5px;
+}
+
+.githubbutton {
+  margin-left: 8px;
+}
+
+.githubicon {
+  height: 28px;
+  width: 28px;
+}
