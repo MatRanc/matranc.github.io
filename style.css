@@ -3,8 +3,13 @@ body {
 }
 
 @font-face {
-  font-family: "SF Pro Display Bold"
-  src="assets/fonts/SF-Pro-Display-Bold.otf"
+  font-family: "SF Pro Display Bold";
+  src: url(https://matranc.github.io/assets/fonts/SF-Pro-Display-Bold.otf);
+}
+
+@font-face {
+  font-family: "SF Pro Display Regular";
+  src: url(https://matranc.github.io/assets/fonts/SF-Pro-Display-Regular.otf);
 }
 
 h1 {
@@ -19,7 +24,7 @@ h1 {
 
 h2 {
   color: rgba(255,255,255,0.53);
-  font-family: "Segoe UI";
+  font-family: "SF Pro Display Regular";
   font-size: 18px;
   font-weight: 400;
   padding-left: 20%;
