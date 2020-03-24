@@ -2,9 +2,14 @@ body {
   background-color: #030711
 }
 
+@font-face {
+  font-family: "SF Pro Display Bold"
+  src="assets/fonts/SF-Pro-Display-Bold.otf"
+}
+
 h1 {
   color: #ffffff;
-  font-family: "SF Pro Display";
+  font-family: "SF Pro Display Bold";
   font-size: 48px;
   font-weight: 700;
   padding-left: 20%;
