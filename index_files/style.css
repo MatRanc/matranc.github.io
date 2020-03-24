@@ -33,59 +33,45 @@ h1 {
 }
 
 .projectsbox {
-  margin-top: -80px;
-  padding-top: 70px;
+  margin-top: -100px;
   margin-bottom: -340px;
   margin-left: 65%;
   width: 500px;
-  height: 350px;
+  height: 410px;
   border-radius: 11px;
-  background-color: #ffffff00;
-  }
+  background: rgba(211,211,211,0.05);
+}
 
 .projectsboxtitle {
-  margin-top: -72px;
-  margin-left: 66.33%;
-  padding-left: 0px;
+  padding-left: 30px;
   padding-top: 15px;
   width: 180px;
-  opacity: 0.15;
+  opacity: 0.15
   transition-property: opacity;
   transition-duration: 0.15s;
   transition-timing-function: linear;
 }
 
-#projecttext:hover {
-  opacity: 1;
-}
-
-#projecttext:hover + .projectsbox {
-  background-color: #ffffff07;
-}
-
-#projectcontainer {
-  visibility: hidden;
-}
-
-#projecttext:hover + #projectcontainer {
-  visibility: visible;
+.projectsboxtitle:hover {
+  opacity: 100;
 }
 
 .projecttitle {
   font-family: "SF Pro Display Light";
   margin-left: 30px;
   font-size: 18px;
-  color: #ffffffe5;
-  opacity: 1;
+  color: #ffffff;
+  opacity: 0;
 }
 
 .projectdisc {
   font-family: "SF Pro Display Thin";
-  color: #ffffffad;
+  color: #ffffff;
   width: 370px;
   margin-top: -5px;
   margin-left: 30px;
   font-size: 18px;
+  opacity: 0;
 }
 
 .subtitle {
