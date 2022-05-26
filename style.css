@@ -104,20 +104,6 @@ hr {
   border: solid 1px #49536c
 }
 
-.twitterbutton {
-  margin-left: 20%;
-}
-
-.twitterbutton:hover {
-  opacity: 0.70;
-}
-
-.twittericon {
-  height: 28px;
-  width: 28px;
-  margin-top: 16.5px;
-}
-
 .githubbutton {
   margin-left: 8px;
 }
